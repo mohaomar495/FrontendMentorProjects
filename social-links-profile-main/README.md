@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: (https://github.com/mohaomar495/FrontendMentorProjects/tree/main/qr-code-component-main)
+- Solution URL: (https://github.com/mohaomar495/FrontendMentorProjects/tree/main/social-links-profile-main)
 - Live Site URL: (https://socialmedialinkprofile.netlify.app/)
 
 ## My process
